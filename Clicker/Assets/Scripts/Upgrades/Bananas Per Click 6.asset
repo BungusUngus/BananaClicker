@@ -16,5 +16,5 @@ MonoBehaviour:
   OriginalUpgradeCost: 1500000000
   CurrentUpgradeCost: 1500000000
   CostIncreaseMultiplierPerPurchase: 0.08
-  UpgradeButtonText: 5,000,000
+  UpgradeButtonText: 5,000,000 BPC
   UpgradeButtonDescription: increase your bananas per click by {0}
